@@ -24,7 +24,9 @@ adding to a branch
 
 <br />
 
-This is through Github! 
+This is through Github!
+
+Hello! New Update!
 
 # :mag: Explore Refactored
 
