@@ -16,7 +16,7 @@ Welcome to your ReadMe Refactored playground! :owlbert:
 
 The ReadMe Refactored experience represents the future of ReadMe, and includes upgrades to almost every aspect of the product. We're so excited for you to start exploring this new experience, and hopefully making the decision to upgrade your production environment to Refactored soon. :sparkles:
 
-HELLO!
+HELLO! This is the new experience
 
 # :mag: Explore Refactored
 
