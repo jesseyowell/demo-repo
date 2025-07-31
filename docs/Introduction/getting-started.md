@@ -28,7 +28,7 @@ This is through Github!
 
 Hello! New Update!
 
-\<br>&#x20;
+<br />
 
 # :mag: Explore Refactored
 
