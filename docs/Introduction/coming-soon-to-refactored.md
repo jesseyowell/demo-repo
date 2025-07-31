@@ -32,6 +32,10 @@ Also, this only applies to Group-level Reusable Content blocks. Any Reusable Con
 
 ## Suggested Edits
 
-If your team relies on Suggested Edits as part of your internal workflow to propose changes, this will be solved by Branches (available now) and reviews (to come). 
+If your team relies on Suggested Edits as part of your internal workflow to propose changes, this will be solved by Branches (available now) and reviews (to come).
 
 If, however, your team allows visitors to your documentation site to propose comments and/or changes via [Suggested Edits](https://docs.readme.com/main/docs/suggested-edits#/), this functionality will not be supported in Refactored when you upgrade. We are planning to build a feature that replaces the use cases and functionalities that external Suggested Edits provided, but don't have a timeline to share presently.
+
+<br />
+
+Changes to document!
