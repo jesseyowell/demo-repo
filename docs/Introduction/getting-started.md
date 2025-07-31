@@ -20,6 +20,10 @@ HELLO! This is the new experience
 
 adding to a branch
 
+<Image align="center" src="https://files.readme.io/b015cf129817ec7d2de72950e6e8764ce3c4f5108dc54a90625b73a0ba37d12b-Screenshot_2025-06-11_at_8.15.09_PM.png" />
+
+<br />
+
 # :mag: Explore Refactored
 
 On the following Guides pages you'll find overviews on Refactored's core new features, including the Editing UI, our MDX-powered editor and Custom Components functionality, Bi-Directional Sync with GitHub, and Branches.
