@@ -1,43 +1,42 @@
 ---
 title: Coming Soon to Refactored
-excerpt: ''
 deprecated: false
 hidden: false
+link:
+  new_tab: false
 metadata:
   title: ''
   description: ''
   robots: index
-next:
-  description: ''
 ---
-> ❗️ Refer to ReadMe's Docs for the latest updates!
+❗️ Consulte la documentación de ReadMe para las últimas actualizaciones.
 >
-> Please note that once your team has access to this playground environment, our team will no longer be editing this project, including this page. That means these coming soon updates might be out of date.
+> Tenga en cuenta que una vez que su equipo tenga acceso a este entorno de prueba, nuestro equipo ya no editará este proyecto, incluida esta página. Esto significa que estas actualizaciones "próximamente" podrían estar desactualizadas.
 >
-> For the latest updates, please refer to ReadMe's Feature Compatibility breakdown here: [https://docs.readme.com/main/docs/migration#/feature-compatibility](https://docs.readme.com/main/docs/migration#/feature-compatibility)
+> Para obtener las últimas actualizaciones, consulte el desglose de compatibilidad de funciones de ReadMe aquí: [https://docs.readme.com/main/docs/migration#/feature-compatibility](https://docs.readme.com/main/docs/migration#/feature-compatibility)
 
-## Staging :arrow_right: Branches
+## Staging :arrow_right: Ramas
 
-If you use [Staging](https://docs.readme.com/ent/docs/publishing-content-with-staging#/) in your current Enterprise Group, please note that the Staging experience in Refactored is not yet at 1:1 parity with the legacy ReadMe experience. The next era of Staging in ReadMe Refactored is launching in the near future, with the current ability for Enterprise Admins to create, merge, edit, and delete branches.
+Si utiliza [Staging](https://docs.readme.com/ent/docs/publishing-content-with-staging#/) en su Grupo Empresarial actual, tenga en cuenta que la experiencia de Staging en Refactored aún no tiene una paridad 1:1 con la experiencia heredada de ReadMe. La próxima era de Staging en ReadMe Refactored se lanzará en un futuro cercano, con la capacidad actual para los administradores empresariales de crear, fusionar, editar y eliminar ramas.
 
-Soon, a branches-based workflow will replace the legacy Staging workflow, and will include new functionality including new permissions, review processes, and ways for Admins on your team to collaborate on documentation in the ReadMe UI and in GitHub.
+Pronto, un flujo de trabajo basado en ramas reemplazará el flujo de trabajo heredado de Staging, e incluirá nuevas funcionalidades, como nuevos permisos, procesos de revisión y formas para que los administradores de su equipo colaboren en la documentación en la UI de ReadMe y en GitHub.
 
-If you're curious about Branches, feel free to experiment in this project! You can also learn more about the current functionality [in our docs](https://docs.readme.com/main/docs/branches#/).
+Si tiene curiosidad sobre las Ramas, no dude en experimentar en este proyecto. También puede obtener más información sobre la funcionalidad actual [en nuestra documentación](https://docs.readme.com/main/docs/branches#/).
 
-## Global Blocks: Reusable Content and Custom Components
+## Bloques globales: contenido reutilizable y componentes personalizados
 
-If you've created [Global Reusable Content blocks](https://docs.readme.com/ent/docs/reusable-content-enterprise#/) in your Enterprise Group, your Group may not be an ideal candidate for migrating to Refactored (yet). We currently cannot support migrating existing Global Reusable Content blocks from your legacy Group to your new Refactored Group. However, with the new Refactored experience, Enterprise Group Admins will be able to create new Global Reusable Content blocks *and* new Global Custom Components.
+Si ha creado [bloques de contenido reutilizable global](https://docs.readme.com/ent/docs/reusable-content-enterprise#/) en su Grupo Empresarial, es posible que su Grupo no sea un candidato ideal para migrar a Refactored (todavía). Actualmente no podemos admitir la migración de bloques de contenido reutilizable global existentes de su Grupo heredado a su nuevo Grupo Refactored. Sin embargo, con la nueva experiencia Refactored, los administradores de grupos empresariales podrán crear nuevos bloques de contenido reutilizable global *y* nuevos componentes personalizados globales.
 
-Also, this only applies to Group-level Reusable Content blocks. Any Reusable Content blocks created at the child level will migrate over to Refactored, and child projects will also have the Custom Components feature.
+Además, esto solo se aplica a los bloques de contenido reutilizable a nivel de grupo. Cualquier bloque de contenido reutilizable creado a nivel secundario migrará a Refactored, y los proyectos secundarios también tendrán la función de componentes personalizados.
 
-## Suggested Edits
+## Ediciones sugeridas
 
-If your team relies on Suggested Edits as part of your internal workflow to propose changes, this will be solved by Branches (available now) and reviews (to come).
+Si su equipo depende de las ediciones sugeridas como parte de su flujo de trabajo interno para proponer cambios, esto se resolverá con las ramas (disponibles ahora) y las revisiones (por venir).
 
-If, however, your team allows visitors to your documentation site to propose comments and/or changes via [Suggested Edits](https://docs.readme.com/main/docs/suggested-edits#/), this functionality will not be supported in Refactored when you upgrade. We are planning to build a feature that replaces the use cases and functionalities that external Suggested Edits provided, but don't have a timeline to share presently.
+Sin embargo, si su equipo permite que los visitantes de su sitio de documentación propongan comentarios y/o cambios a través de [ediciones sugeridas](https://docs.readme.com/main/docs/suggested-edits#/), esta funcionalidad no será compatible con Refactored cuando actualice. Estamos planeando crear una función que reemplace los casos de uso y las funcionalidades que proporcionaban las ediciones sugeridas externas, pero actualmente no tenemos un cronograma para compartir.
 
 <br />
 
-Changes to document! Adding more content
+Cambios a documentar! Añadiendo más contenido
 
-Hi!
+Hola!
