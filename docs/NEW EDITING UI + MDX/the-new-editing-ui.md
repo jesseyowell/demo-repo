@@ -20,7 +20,7 @@ Our new Editing UI  brings all docs editing to your live hub, allowing Admins of
 * More accurate look at your docs before publishing.
 * More accurate search results.
 
-<br />
+Hey! This is sync'd via Git!
 
 ***
 
@@ -40,9 +40,11 @@ Settings are located in the top-left menu. You can now also preview appearance c
 
 <Image align="center" src="https://files.readme.io/c7eb0b30d55461ae63e3439ba6e60a4946beda364bfb330f19c31a5085b10ed2-CleanShot_2025-06-09_at_13.11.42.gif" />
 
-> 💁‍♂️ Search
->
-> You can search for settings—including their previous names.
+<Callout icon="💁‍♂️" theme="default">
+  ### Search
+
+  You can search for settings—including their previous names.
+</Callout>
 
 <br />
 
