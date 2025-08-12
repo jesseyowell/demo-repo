@@ -12,59 +12,59 @@ metadata:
   description: ''
   robots: index
 ---
-¡Bienvenido a tu campo de juegos de ReadMe Refactored! :owlbert:
+Welcome to your ReadMe Refactored playground! :owlbert:
 
-La experiencia de ReadMe Refactored representa el futuro de ReadMe e incluye actualizaciones en casi todos los aspectos del producto. Estamos muy emocionados de que comiences a explorar esta nueva experiencia y, con suerte, tomes la decisión de actualizar tu entorno de producción a Refactored pronto. :sparkles:
+The ReadMe Refactored experience represents the future of ReadMe and includes updates to almost every aspect of the product. We are very excited for you to start exploring this new experience and, hopefully, make the decision to upgrade your production environment to Refactored soon. :sparkles:
 
-¡HOLA! Esta es la nueva experiencia
+HELLO! This is the new experience
 
-añadiendo a una rama
+adding to a branch
 
 <Image align="center" src="https://files.readme.io/b015cf129817ec7d2de72950e6e8764ce3c4f5108dc54a90625b73a0ba37d12b-Screenshot_2025-06-11_at_8.15.09_PM.png" />
 
 <br />
 
-¡Esto es a través de Github!
+This is via Github!
 
-¡Hola! ¡Nueva actualización!
+Hello! New update!
 
 <Tabs>
-  <Tab title="Primera Pestaña">
-    Bienvenido al contenido que solo puedes ver dentro de la primera pestaña.
+  <Tab title="First Tab">
+    Welcome to content you can only see inside the first tab.
   </Tab>
 
-  <Tab title="Segunda Pestaña">
-    Aquí hay contenido que solo está dentro de la segunda pestaña.
+  <Tab title="Second Tab">
+    Here is content that is only inside the second tab.
   </Tab>
 
-  <Tab title="Tercera Pestaña">
-    Aquí hay contenido que solo está dentro de la tercera pestaña.
+  <Tab title="Third Tab">
+    Here is content that is only inside the third tab.
   </Tab>
 </Tabs>
 
 <br />
 
-# :mag: Explora Refactored
+# :mag: Explore Refactored
 
-En las siguientes páginas de Guías encontrarás descripciones generales de las nuevas características principales de Refactored, incluida la interfaz de usuario de edición, nuestro editor basado en MDX y la funcionalidad de componentes personalizados, la sincronización bidireccional con GitHub y las ramas.
+On the following Guides pages, you'll find overviews of Refactored's core new features, including the editing UI, our MDX-based editor and custom component functionality, two-way GitHub sync, and branches.
 
-# :writing_hand: Un campo de juegos Refactored
+# :writing_hand: A Refactored Playground
 
-¡Este proyecto es completamente tuyo para explorar, agregar y experimentar! Si bien las páginas de las Guías están diseñadas para ser informativas, ¡también son totalmente editables! Además, la sección de Referencia de la API se deja intencionalmente abierta para que puedas intentar agregar una definición de API en ReadMe o a través de GitHub.
+This project is completely yours to explore, add to, and experiment with! While the Guides pages are meant to be informative, they are also fully editable! In addition, the API Reference section is intentionally left open for you to try adding an API definition in ReadMe or via GitHub.
 
-* **Juega con nuevas características:** ¡Esta es una gran oportunidad para familiarizarte con la nueva interfaz de usuario de edición! Realiza actualizaciones en el modo de edición y cambia al modo de vista para ver cómo se renderizan. Intenta agregar cualquiera de nuestros 5 componentes MDX preconstruidos o crea el tuyo propio, ya sea en este subproyecto o a nivel del Grupo empresarial.
-* **Configura una Referencia de API de prueba:** Agrega una definición de API mediante archivo o carga desde la interfaz de usuario de edición, o usa nuestro Diseñador de API (¡el Editor manual actualizado!) para crear o editar una definición de API. ¡También puedes conectar tu proyecto de ReadMe con GitHub a través de la sincronización bidireccional y sincronizar tu definición de API de esa manera!
-* **Sincroniza bidireccionalmente:** Una de las mayores actualizaciones de ReadMe Refactored es la sincronización bidireccional con GitHub, que te permite realizar actualizaciones en tus documentos en ReadMe, GitHub o ambos, y los cambios siempre se sincronizarán bidireccionalmente. Para comenzar, ve a la página de Conexión Git en el menú de Configuración de tu interfaz de usuario de edición.
-* **Colabora a través de ramas:** ¡Ahora tú y tu equipo pueden realizar cambios en este proyecto sin afectar el trabajo de los demás gracias a las Ramas! Crea una rama a partir de la versión principal de este proyecto u otra versión que crees, e intenta crear, editar, fusionar y eliminar ramas.
+* **Play with new features:** This is a great opportunity to familiarize yourself with the new editing UI! Make updates in edit mode and switch to view mode to see how they render. Try adding any of our 5 pre-built MDX components or build your own, either in this subproject or at the Enterprise Group level.
+* **Set up a test API Reference:** Add an API definition via file or upload from the editing UI, or use our API Designer (the updated Manual Editor!) to create or edit an API definition. You can also connect your ReadMe project to GitHub via two-way sync and sync your API definition that way!
+* **Two-way Sync:** One of the biggest updates to ReadMe Refactored is two-way GitHub sync, which allows you to make updates to your docs in ReadMe, GitHub, or both, and changes will always sync bi-directionally. To get started, navigate to the Git Connection page in your editing UI's Settings menu.
+* **Collaborate via Branches:** Now you and your team can make changes to this project without affecting each other's work thanks to Branches! Create a branch from the main version of this project or another version you create, and try creating, editing, merging, and deleting branches.
 
-# 💬 ¡Estamos aquí para ayudar!
+# 💬 We're here to help!
 
-Mientras exploras, siempre puedes comunicarte con tu CSM, arquitecto de soluciones o nuestro equipo de soporte a través de [support@readme.io](mailto:support@readme.io) si tienes alguna pregunta o sugerencia.
+As you explore, you can always reach out to your CSM, Solutions Architect, or our Support team via [support@readme.io](mailto:support@readme.io) if you have any questions or suggestions.
 
-¡Estamos emocionados de que estés aquí! :blue_heart:
+We're excited you're here! :blue_heart:
 
-# 🎉 ¿Listo para migrar tu entorno de producción?
+# 🎉 Ready to migrate your production environment?
 
-Una vez que estés listo para migrar tu(s) Grupo(s) empresarial(es) de ReadMe y los proyectos hijos correspondientes a ReadMe Refactored, ¡comunícate con tu CSM y arquitecto de soluciones para informarles! Te guiarán a través de todos los pasos y programarán una fecha en la que nuestro equipo se encargará de todo el proceso de migración. :rocket:
+Once you are ready to migrate your ReadMe Enterprise Group(s) and corresponding child projects to ReadMe Refactored, please reach out to your CSM and Solutions Architect to let them know! They will walk you through all of the steps and schedule a date where our team will handle the entire migration process. :rocket:
 
-![Esto no será divertido de limpiar...](https://owlbert.io/images/popper.gif)
+![This won't be fun to clean up...](https://owlbert.io/images/popper.gif)
