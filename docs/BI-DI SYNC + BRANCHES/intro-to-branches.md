@@ -9,79 +9,78 @@ metadata:
   description: ''
   robots: index
 ---
-
 > 🚧 Beta
 >
-> Esta característica está en desarrollo activo y puede cambiar antes del lanzamiento final. Siempre se agradece la retroalimentación en [beta@readme.com](beta@readme.com).
+> This feature is in active development and may change before final release. Feedback is always appreciated at [beta@readme.com](beta@readme.com).
 
-Las ramas permiten a los administradores de ReadMe guardar cambios en las páginas sin que se publiquen de inmediato. ¡Con las ramas, puedes seguir editando como siempre lo has hecho! Las ramas son un flujo de trabajo opcional que ofrece flexibilidad en tu proceso de escritura. Los escritores utilizan las ramas para:
+Branches allow ReadMe Admins to save changes across pages without them going live immediately. With branches, you can continue to edit as you always have! Branches are an optional workflow that offer flexibility in your writing process. Writers use branches to:
 
-* Realizar cambios y revisarlos en un entorno de vista previa antes de que estén en vivo.
-* Enviar cambios a compañeros de equipo para su revisión.
-* Realizar cambios en varias páginas.
+* Make changes and review them in a preview environment before they’re live.
+* Send changes to teammates for review.
+* Make changes across multiple pages.
 
 > 💁‍♂️
 >
-> **Nota:** Las opciones de revisión adicionales solo están disponibles en los planes Enterprise.
+> **Note:** Additional review options are only available on Enterprise plans.
 
 ***
 
-## Creación de una rama
+## Creating a Branch
 
-Hay tres formas de crear una rama:
+There are three ways to create a branch:
 
-1. Navega al menú de versiones y ramas. Una vez allí, puedes crear nuevas ramas a partir de una versión.
-2. Mientras editas una versión, en lugar de guardar, puedes guardar en una nueva rama.
-3. Si estás [sincronizando con GitHub](https://docs.readme.com/main/docs/bi-directional-sync), las ramas creadas en GitHub aparecerán en ReadMe. ¡Y las ramas creadas en la interfaz de usuario de ReadMe aparecerán automáticamente en GitHub!
+1. Navigate to the versions and branches menu. Once there, you can create new branches from a version.
+2. While editing a version, instead of saving you can save to a new branch.
+3. If you’re [syncing with GitHub](https://docs.readme.com/main/docs/bi-directional-sync) , branches created in GitHub will show up in ReadMe. And branches created in the ReadMe UI will automatically show up in GitHub!
 
-Una vez creada tu rama, ¡puedes empezar a escribir! Los cambios no estarán en vivo hasta que fusiones tu rama en una versión pública.
+Once your branch is created, you can start writing! Changes will not be live until you merge your branch into a public version.
 
 <Image align="center" src="https://files.readme.io/66750bb4ffdf062a43e77e2ce1a3bfc6d36a2c6fa670e3968b621159ab7b177a-branches_1.png" />
 
-No hay límite de tiempo ni caducidad en las ramas. Cualquier administrador de tu equipo puede ver, editar, fusionar y eliminar cualquier rama.
+There are no time limit or expiration on branches. Any admin on your team can view, edit, merge, and delete any branch.
 
-## Fusionar una rama
+## Merging a Branch
 
-Una vez que estés listo para que los cambios se publiquen, puedes fusionar desde el menú de la rama:
+Once you’re ready for the changes to go live, you can merge from the branch menu:
 
 <Image align="center" src="https://files.readme.io/51f1614616e3ee1fac70268bd784076acd002ec15809843ee495b576f0a31086-branches_2.png" />
 
-Al fusionar, se realizará una verificación para asegurar que no haya conflictos de fusión. Si hay conflictos que deben resolverse, recomendamos [resolver los conflictos desde GitHub](https://docs.readme.com/main/docs/branches#/handling-conflicts). Si tu proyecto no se sincroniza con GitHub, puedes ignorar el conflicto y fusionar forzadamente tus cambios, con preferencia a los cambios en la rama.
+On merge, a check will be run to ensure there are no merge conflicts. If there are conflicts that must be resolved, we recommend [resolving the conflicts from GitHub](https://docs.readme.com/main/docs/branches#/handling-conflicts). If your project does not sync with GitHub, you can to ignore the conflict and forcefully merge their changes—with preference to the changes in the branch.
 
-Una vez fusionadas, tus ramas no se eliminan para que puedas revisar los cambios antes de eliminarlas.
+Once merged, your branches are not deleted so you can review the changes before deleting them.
 
 > 💁‍♂️
 >
-> Los usuarios de GitHub también pueden fusionar una rama en una versión, incluso a través de Pull Requests.
+> GitHub users can merge a branch into a version too—including via Pull Requests.
 
 ***
 
-## Sincronización con GitHub
+## Syncing with GitHub
 
-No tienes que sincronizar con GitHub para usar las ramas.
+You do not have to sync with GitHub to use branches.
 
-Al crear ramas desde GitHub, su nombre debe tener el formato para incluir su versión: `{version}_{rama}`. Ejemplos:
+When creating branches from GitHub, their name has to be formatted to include their version: `{version}_{branch}`. Examples:
 
 ```
-v2.0_reestructurar-introduccion
-v2.0_agregar-nueva-caracteristica
-v2.0_corregir-error-tipografico
+v2.0_rewrite-getting-started
+v2.0_add-new-feature
+v2.0_fix-typo
 ```
 
-### Acceso y Permisos
+### Access & Permissions
 
-Los permisos de ReadMe y GitHub son independientes. Los usuarios con acceso a las ramas de tu proyecto de GitHub tendrán acceso a cualquier cambio de contenido. Para que los usuarios puedan ver los cambios de contenido realizados en las ramas a través de GitHub, necesitarán una cuenta de ReadMe con acceso a la rama de tu proyecto.
+ReadMe and GitHub permissions are independent. Users with access to your GitHub project’s branches will have access to any content changes. In order for users to view content changes made in branches via GitHub, they will need a ReadMe account with access to your project’s branch.
 
-### Manejo de Conflictos
+### Handling Conflicts
 
-Al fusionar desde GitHub, el usuario puede resolver conflictos a través del editor de GitHub o la herramienta de fusión de su elección localmente antes de hacer push.
+When merging from GitHub, the user can resolve conflicts via the GitHub editor or the merge tool of their choice locally before pushing.
 
-Al fusionar desde ReadMe, los cambios que ves al previsualizar siempre coincidirán con lo que se publica al fusionar. Los cambios conflictivos de GitHub no aparecerán.
+When merging from ReadMe, the changes you see when previewing will always match what goes lives when merging. Conflicting changes from GitHub will not appear.
 
 ***
 
-## Preguntas Frecuentes
+## FAQ
 
-<Accordion title="¿Quién puede ver una rama?" icon="fa-help-circle">
-  En este momento, cualquiera con el enlace puede ver una rama.
+<Accordion title="Who can view a branch?" icon="fa-help-circle">
+  At this time, anyone with the link can view a branch.
 </Accordion>
