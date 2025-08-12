@@ -83,7 +83,17 @@
               }
             }
           }
-        }
+        },
+        "parameters": [
+          {
+            "in": "query",
+            "name": "Fun!",
+            "schema": {
+              "type": "string",
+              "default": "hi"
+            }
+          }
+        ]
       }
     },
     "/pets/{petId}": {
