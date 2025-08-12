@@ -12,6 +12,8 @@ next:
 ---
 Versions function in the same way that they did in Legacy, but they're now accessible via the Editing UI!
 
+Hi! New content!
+
 <Image align="center" src="https://files.readme.io/1575988c403c848afe7e4c1b4ed4c242d8c15c232d2708ce44ebb89930679d5b-versions_in_refactored.png" />
 
 Now, the main Versions actions live in the three dot menu to the right of the main version, including managing the visibility of the version, forking it, and exporting a version to PDF. You also create a new branch in ReadMe from the Versions menu.
