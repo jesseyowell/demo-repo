@@ -12,7 +12,7 @@ next:
 ---
 Versions function in the same way that they did in Legacy, but they're now accessible via the Editing UI!
 
-Hi! New content!
+Hi! New content! This will go out later!
 
 <Image align="center" src="https://files.readme.io/1575988c403c848afe7e4c1b4ed4c242d8c15c232d2708ce44ebb89930679d5b-versions_in_refactored.png" />
 
