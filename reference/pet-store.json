@@ -91,7 +91,8 @@
             "schema": {
               "type": "string",
               "default": "new param"
-            }
+            },
+            "description": "This is a new description"
           }
         ]
       }
