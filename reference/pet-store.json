@@ -90,7 +90,7 @@
             "name": "Fun!",
             "schema": {
               "type": "string",
-              "default": "hi"
+              "default": "new param"
             }
           }
         ]
