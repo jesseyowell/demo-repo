@@ -24,6 +24,8 @@ New Change Via Git!
 
 Hey! This is sync'd via Git!
 
+Hi! Changing this!
+
 ***
 
 ## What’s Changed?
