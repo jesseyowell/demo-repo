@@ -19,9 +19,9 @@ Branches allow ReadMe Admins to save changes across pages without them going liv
 * Send changes to teammates for review.
 * Make changes across multiple pages.
 
-> 💁‍♂️
->
-> **Note:** Additional review options are only available on Enterprise plans.
+<Callout icon="💁‍♂️" theme="default">
+  **Note:** Additional review options are only available on Enterprise plans.
+</Callout>
 
 ***
 
@@ -49,9 +49,9 @@ On merge, a check will be run to ensure there are no merge conflicts. If there a
 
 Once merged, your branches are not deleted so you can review the changes before deleting them.
 
-> 💁‍♂️
->
-> GitHub users can merge a branch into a version too—including via Pull Requests.
+<Callout icon="💁‍♂️" theme="default">
+  GitHub users can merge a branch into a version too—including via Pull Requests.
+</Callout>
 
 ***
 
@@ -84,3 +84,17 @@ When merging from ReadMe, the changes you see when previewing will always match 
 <Accordion title="Who can view a branch?" icon="fa-help-circle">
   At this time, anyone with the link can view a branch.
 </Accordion>
+
+<Tabs>
+  <Tab title="First Tab">
+    Welcome to the content that you can only see inside the first Tab.
+  </Tab>
+
+  <Tab title="Second Tab">
+    Here's content that's only inside the second Tab.
+  </Tab>
+
+  <Tab title="Third Tab">
+    Here's content that's only inside the third Tab.
+  </Tab>
+</Tabs>
