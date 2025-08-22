@@ -138,6 +138,27 @@
           }
         }
       }
+    },
+    "/new-endpoint": {
+      "get": {
+        "description": "",
+        "operationId": "get_new-endpoint",
+        "responses": {
+          "200": {
+            "description": ""
+          }
+        },
+        "parameters": [
+          {
+            "in": "query",
+            "name": "food type",
+            "schema": {
+              "type": "string",
+              "default": "canned"
+            }
+          }
+        ]
+      }
     }
   },
   "components": {

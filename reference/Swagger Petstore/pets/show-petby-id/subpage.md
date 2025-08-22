@@ -18,3 +18,5 @@ metadata:
     Here's content that's only inside the third Tab.
   </Tab>
 </Tabs>
+
+Items here
