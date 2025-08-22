@@ -6,3 +6,4 @@ hidden: false
 metadata:
   robots: index
 ---
+Hello, new content!
