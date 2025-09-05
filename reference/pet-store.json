@@ -87,10 +87,10 @@
         "parameters": [
           {
             "in": "query",
-            "name": "Fun!",
+            "name": "New Fun Thing",
             "schema": {
               "type": "string",
-              "default": "new param"
+              "default": "ABCDEF"
             },
             "description": "This is a new description"
           }
