@@ -18,6 +18,8 @@ The ReadMe Refactored experience represents the future of ReadMe and includes up
 
 HELLO! This is the new experience
 
+New update for COCC
+
 Changing this at the last minute
 
 <br />
