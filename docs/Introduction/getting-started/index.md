@@ -14,6 +14,8 @@ metadata:
 ---
 Welcome to your ReadMe Refactored playground! :owlbert:
 
+Hi!!!
+
 The ReadMe Refactored experience represents the future of ReadMe and includes updates to almost every aspect of the product. We are very excited for you to start exploring this new experience and, hopefully, soon make the decision to update your production environment to Refactored. :sparkles:
 
 <br />
